@@ -25,7 +25,7 @@ Are shooters and sports games just "dumb fun" for casuals? Or is something darke
 
 I discovered that Mainstream gamers aren't casuals,they are "Grinders". We also found that Sports gamers have the highest retention but the lowest satisfaction in the industry.
 
-👉 **[Read the full blog post and see the visualizations here](https://fezcode.com/blog/gun-and-ball)**
+👉 **[Read the full blog post and see the visualizations here](https://fezcode.com/blog/gun-and-ball/?theme=editorial)**
 
 ## The Stack (Engineered for Speed)
 Avoided the bloat of standard Data Science setups. This project uses **`uv`**, a Rust-based Python package manager that is significantly faster than `pip` or `poetry`.
