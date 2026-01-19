@@ -5,6 +5,8 @@
 ![Dependency Manager](https://img.shields.io/badge/uv-lightning%20fast-purple)
 ![Status](https://img.shields.io/badge/Status-Based-green)
 
+![Project: Touch Grass Banner](./banner.png)
+
 ## The Premise
 **Imagine a product.**
 
